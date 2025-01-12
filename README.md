@@ -1,2 +1,2 @@
 # Project-Alsace
-A repository for UE5 game development
+A repository for narrative project.
