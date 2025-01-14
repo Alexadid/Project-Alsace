@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Опустошители.md",
+                "file": "ЛООООООООР/Первое пришествие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Опустошители"
+              "title": "Первое пришествие"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Опустошители.md",
+                "file": "ЛООООООООР/Первое пришествие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Опустошители"
+              "title": "Обратные ссылки для Первое пришествие"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Опустошители.md",
+                "file": "ЛООООООООР/Первое пришествие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Опустошители"
+              "title": "Исходящие ссылки из Первое пришествие"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Опустошители.md"
+                "file": "ЛООООООООР/Первое пришествие.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Опустошители"
+              "title": "Структура Первое пришествие"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "10d4d46d8708b435",
   "lastOpenFiles": [
-    "README.md",
     "Опустошители.md",
+    "ЛООООООООР/Первое пришествие.md",
+    "README.md",
     "Project-Alsace/README.md",
     "Project-Alsace"
   ]
